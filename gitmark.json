@@ -1,0 +1,7 @@
+{
+  "@id": "gitmark:c1725d53026f56451db425494fed3f66163ecad5805036fb13bd5c62455450a1:0",
+  "genesis": "gitmark:c1725d53026f56451db425494fed3f66163ecad5805036fb13bd5c62455450a1:0",
+  "nick": "txoparse",
+  "package": "./package.json",
+  "repository": "./"
+}
